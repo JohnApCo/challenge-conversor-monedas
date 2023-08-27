@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ConversorMonedas extends Conversor{
+public class ConversorMoneda extends Conversor{
     public Map<String, Runnable> createActionMap(double valor) {
         Map<String, Runnable> actionMap = new HashMap<>();
         //De Pesos

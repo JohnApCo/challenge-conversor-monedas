@@ -1,7 +1,7 @@
 package com.main;
 
 import com.conversor.Conversor;
-import com.conversor.ConversorMonedas;
+import com.conversor.ConversorMoneda;
 import com.conversor.ConversorTemperatura;
 
 import javax.swing.*;
@@ -51,7 +51,7 @@ public class ConversionProgram {
 
         double amount = Double.parseDouble(input);
         // Lógica de conversión de moneda
-        Conversor monedas = new ConversorMonedas();
+        Conversor monedas = new ConversorMoneda();
         monedas.convert(amount);
 
         int res = JOptionPane.showConfirmDialog(null, "¿Deseas realizar otra conversión?");
