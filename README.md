@@ -1,5 +1,4 @@
-![Alt text](https://trello.com/1/cards/624b2bab0de09d2abf9e56f6/attachments/626bf8d6ffbdae7c72aada31/download/Dise%C3%B1o_sin_t%C3%ADtulo.gif)
-
+![conversor_monedas.gif](assets%2Fconversor_monedas.gif)
 <div align="center">
     <h1>Conversor de monedas</h1>
     <h3>
